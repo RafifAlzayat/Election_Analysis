@@ -39,3 +39,6 @@ The code provided can be modified to be used by any other county or state. The o
 The number of candidates and or counties can be more or less and code will still perform. 
 
 If the script is to be used in a state election then the column “county” needs to be renamed to “state” in addition, the code output would be modified to reflect this change as well.
+
+
+for fun
