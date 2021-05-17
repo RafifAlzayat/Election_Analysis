@@ -1,9 +1,9 @@
 # Election_Analysis
 
-Overview of Election Audit:
+##Overview of Election Audit:
 TODO
 
-Election-Audit Results: 
+##Election-Audit Results: 
 
 •	How many votes were cast in this congressional election?
 Total Votes: 369,711
@@ -24,7 +24,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 
-Election-Audit Summary: 
+##Election-Audit Summary: 
 
 The code provided can be modified to be used by any other county or state. The only change is to use a different CSV file that is formatted in the same manner as the one used for this election.
 
