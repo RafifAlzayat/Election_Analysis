@@ -1,7 +1,8 @@
 # Election_Analysis
 
 ## Overview of Election Audit:
-TODO
+
+The purpose of the audit is to use a software that can expedite the processing of the results and confirm the outcome without having to manually count each vote.
 
 ## Election-Audit Results: 
 
